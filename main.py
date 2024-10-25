@@ -1,2 +1,2 @@
-a=input('Hlle >')
+a=input('Hello >')
 print(a)
